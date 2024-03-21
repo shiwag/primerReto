@@ -1,0 +1,6 @@
+
+width: Fixed (680px)
+height: Hug (67px)
+top: 885px
+left: 240px
+gap: 24px
